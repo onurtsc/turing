@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/turing/static/css/main.5f361e03.chunk.css",
+    "main.js": "/turing/static/js/main.ab2443ff.chunk.js",
+    "main.js.map": "/turing/static/js/main.ab2443ff.chunk.js.map",
+    "runtime-main.js": "/turing/static/js/runtime-main.bd593dfc.js",
+    "runtime-main.js.map": "/turing/static/js/runtime-main.bd593dfc.js.map",
+    "static/js/2.b8d72a55.chunk.js": "/turing/static/js/2.b8d72a55.chunk.js",
+    "static/js/2.b8d72a55.chunk.js.map": "/turing/static/js/2.b8d72a55.chunk.js.map",
+    "index.html": "/turing/index.html",
+    "precache-manifest.630a57142cf7191e9527f6790ce57d9c.js": "/turing/precache-manifest.630a57142cf7191e9527f6790ce57d9c.js",
+    "service-worker.js": "/turing/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/turing/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.b8d72a55.chunk.js.LICENSE.txt": "/turing/static/js/2.b8d72a55.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/turing/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bd593dfc.js",
+    "static/js/2.b8d72a55.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.ab2443ff.chunk.js"
+  ]
+}
